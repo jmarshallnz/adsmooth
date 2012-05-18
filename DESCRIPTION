@@ -1,0 +1,10 @@
+Package: adsmooth
+Version: 0.2-1
+Date: 2008-08-26
+Title: Adaptive Kernel Density Estimation
+Author: Jonathan Marshall <J.C.Marshall@massey.ac.nz>
+Maintainer: Jonathan Marshall <J.C.Marshall@massey.ac.nz>
+Depends: R (>= 2.4.0), gpclib
+Description: An adaptive kernel density estimator for spatial data, incorporating boundary (edge) correction, and computation of optimal bandwidth via cross validation.
+License: GPL version 2 or newer
+URL: http://www.r-project.org
